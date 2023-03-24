@@ -1,0 +1,1217 @@
+person_id,county,FIPS,total_duration_in_sec,Q1_answer_code,Q1_answer_text
+708,Douglas County,8035,23,,
+17337,Adams County,8001,78,5.0,Definitely worse off
+25671,Adams County,8001,75,4.0,Somewhat worse off
+26938,Denver County,8031,228,3.0,Neither better nor worse off
+28087,Adams County,8001,19,,
+42671,Park County,8093,330,1.0,Definitely better off
+47358,Adams County,8001,7,,
+48862,Denver County,8031,93,2.0,Somewhat better off
+54248,Adams County,8001,82,2.0,Somewhat better off
+55941,Adams County,8001,46,,
+67337,Adams County,8001,82,1.0,Definitely better off
+67937,Elbert County,8039,209,2.0,Somewhat better off
+72293,El Paso County,8041,62,5.0,Definitely worse off
+74551,Adams County,8001,20,,
+76050,Weld County,8123,159,,
+79688,Adams County,8001,113,5.0,Definitely worse off
+82720,Adams County,8001,181,,
+86309,Adams County,8001,42,,
+109377,Adams County,8001,16,,
+111603,Adams County,8001,102,4.0,Somewhat worse off
+114483,Adams County,8001,96,,
+117095,Weld County,8123,152,5.0,Definitely worse off
+121982,Adams County,8001,10,,
+124917,Adams County,8001,82,5.0,Definitely worse off
+139279,Adams County,8001,126,5.0,Definitely worse off
+141874,Adams County,8001,34,,
+144882,Weld County,8123,95,5.0,Definitely worse off
+146224,Denver County,8031,91,3.0,Neither better nor worse off
+155568,Douglas County,8035,44,5.0,Definitely worse off
+163423,Adams County,8001,158,4.0,Somewhat worse off
+164485,Adams County,8001,172,3.0,Neither better nor worse off
+165021,Adams County,8001,6,,
+165651,Adams County,8001,49,5.0,Definitely worse off
+169538,Adams County,8001,119,4.0,Somewhat worse off
+176677,Adams County,8001,5,,
+180583,Adams County,8001,86,2.0,Somewhat better off
+182254,Adams County,8001,144,5.0,Definitely worse off
+190232,Denver County,8031,20,,
+196036,Alamosa County,8003,86,1.0,Definitely better off
+227294,Jefferson County,8059,21,,
+231297,Eagle County,8037,46,5.0,Definitely worse off
+246092,Denver County,8031,40,,
+251750,El Paso County,8041,82,5.0,Definitely worse off
+271994,Denver County,8031,70,1.0,Definitely better off
+273208,Denver County,8031,17,,
+296301,Douglas County,8035,6,,
+310997,Denver County,8031,57,5.0,Definitely worse off
+318899,Boulder County,8013,57,4.0,Somewhat worse off
+325497,Denver County,8031,8,,
+343258,Douglas County,8035,97,5.0,Definitely worse off
+351849,Denver County,8031,86,5.0,Definitely worse off
+384445,Denver County,8031,110,4.0,Somewhat worse off
+384576,Douglas County,8035,137,5.0,Definitely worse off
+411158,El Paso County,8041,4,,
+433190,Denver County,8031,7,,
+433582,Douglas County,8035,73,3.0,Neither better nor worse off
+435912,Douglas County,8035,60,3.0,Neither better nor worse off
+437137,Adams County,8001,97,3.0,Neither better nor worse off
+440720,Denver County,8031,65,5.0,Definitely worse off
+441164,El Paso County,8041,22,,
+443638,Pueblo County,8101,82,4.0,Somewhat worse off
+460803,Mesa County,8077,204,4.0,Somewhat worse off
+464337,Denver County,8031,133,2.0,Somewhat better off
+464407,Denver County,8031,111,2.0,Somewhat better off
+465561,Denver County,8031,61,2.0,Somewhat better off
+472920,Weld County,8123,79,5.0,Definitely worse off
+482428,Douglas County,8035,6,,
+519683,Denver County,8031,6,,
+520234,Denver County,8031,177,3.0,Neither better nor worse off
+528221,Archuleta County,8007,107,1.0,Definitely better off
+550068,Boulder County,8013,62,5.0,Definitely worse off
+554700,Boulder County,8013,148,5.0,Definitely worse off
+564115,Boulder County,8013,64,1.0,Definitely better off
+570283,Boulder County,8013,98,5.0,Definitely worse off
+581640,Boulder County,8013,16,,
+594017,Boulder County,8013,159,4.0,Somewhat worse off
+596274,Boulder County,8013,160,4.0,Somewhat worse off
+612307,Boulder County,8013,11,,
+621617,Boulder County,8013,105,3.0,Neither better nor worse off
+624853,Boulder County,8013,71,3.0,Neither better nor worse off
+628161,Boulder County,8013,115,1.0,Definitely better off
+632069,Denver County,8031,89,5.0,Definitely worse off
+637544,Boulder County,8013,203,5.0,Definitely worse off
+657122,Denver County,8031,25,,
+670308,Weld County,8123,19,,
+672554,Boulder County,8013,7,,
+689269,Weld County,8123,53,4.0,Somewhat worse off
+693065,Boulder County,8013,69,5.0,Definitely worse off
+694578,Denver County,8031,222,5.0,Definitely worse off
+699030,Boulder County,8013,91,5.0,Definitely worse off
+700530,Boulder County,8013,88,5.0,Definitely worse off
+715681,Boulder County,8013,44,4.0,Somewhat worse off
+723587,Boulder County,8013,211,5.0,Definitely worse off
+731931,Boulder County,8013,52,4.0,Somewhat worse off
+731981,Boulder County,8013,101,4.0,Somewhat worse off
+733376,Boulder County,8013,57,2.0,Somewhat better off
+735014,Weld County,8123,11,,
+758474,Cheyenne County,8017,164,1.0,Definitely better off
+760256,Clear Creek County,8019,20,,
+764021,Clear Creek County,8019,30,,
+764068,Clear Creek County,8019,34,,
+764363,Fremont County,8043,79,5.0,Definitely worse off
+765806,Clear Creek County,8019,59,4.0,Somewhat worse off
+771044,Conejos County,8021,174,5.0,Definitely worse off
+779039,Mesa County,8077,90,1.0,Definitely better off
+782145,Delta County,8029,112,5.0,Definitely worse off
+789868,Montrose County,8085,92,5.0,Definitely worse off
+793518,Delta County,8029,9,,
+800567,Douglas County,8035,39,,
+802139,Denver County,8031,90,5.0,Definitely worse off
+815758,Denver County,8031,51,,
+816183,Denver County,8031,165,1.0,Definitely better off
+819869,Denver County,8031,117,1.0,Definitely better off
+821745,Denver County,8031,129,2.0,Somewhat better off
+826198,Denver County,8031,121,4.0,Somewhat worse off
+826276,Denver County,8031,20,,
+834423,Summit County,8117,8,,
+840604,El Paso County,8041,49,5.0,Definitely worse off
+842216,Denver County,8031,88,4.0,Somewhat worse off
+843627,Adams County,8001,170,5.0,Definitely worse off
+846589,Denver County,8031,66,,
+848631,Denver County,8031,9,,
+848846,Denver County,8031,66,3.0,Neither better nor worse off
+850277,Denver County,8031,217,5.0,Definitely worse off
+854481,Denver County,8031,12,,
+858929,Denver County,8031,26,,
+864041,Jefferson County,8059,38,,
+877931,Denver County,8031,14,,
+884099,Denver County,8031,85,4.0,Somewhat worse off
+885258,Adams County,8001,95,1.0,Definitely better off
+886534,Denver County,8031,267,3.0,Neither better nor worse off
+887024,Denver County,8031,91,1.0,Definitely better off
+887382,Denver County,8031,343,4.0,Somewhat worse off
+888331,Denver County,8031,10,,
+889793,Denver County,8031,61,,
+891712,Denver County,8031,105,3.0,Neither better nor worse off
+892869,Denver County,8031,203,2.0,Somewhat better off
+893290,Denver County,8031,127,3.0,Neither better nor worse off
+901477,Saguache County,8109,314,,
+914767,Denver County,8031,125,5.0,Definitely worse off
+923431,Denver County,8031,191,2.0,Somewhat better off
+925102,Denver County,8031,133,4.0,Somewhat worse off
+926457,Adams County,8001,14,,
+928458,Denver County,8031,80,5.0,Definitely worse off
+935922,Denver County,8031,84,1.0,Definitely better off
+944930,Adams County,8001,98,5.0,Definitely worse off
+945015,Douglas County,8035,10,,
+957084,Adams County,8001,84,1.0,Definitely better off
+975750,Denver County,8031,121,5.0,Definitely worse off
+977814,Denver County,8031,42,,
+983536,Denver County,8031,43,5.0,Definitely worse off
+993715,Denver County,8031,39,,
+1000964,Denver County,8031,67,4.0,Somewhat worse off
+1015695,Denver County,8031,10,,
+1024434,Denver County,8031,74,5.0,Definitely worse off
+1024851,Denver County,8031,179,4.0,Somewhat worse off
+1036168,Denver County,8031,14,,
+1036746,Denver County,8031,46,,
+1041859,Denver County,8031,89,5.0,Definitely worse off
+1049600,Denver County,8031,113,5.0,Definitely worse off
+1054673,Denver County,8031,16,,
+1055835,Chaffee County,8015,50,4.0,Somewhat worse off
+1056638,Denver County,8031,58,3.0,Neither better nor worse off
+1061851,Montezuma County,8083,200,4.0,Somewhat worse off
+1068541,Denver County,8031,7,,
+1074850,Denver County,8031,165,3.0,Neither better nor worse off
+1076150,Denver County,8031,395,3.0,Neither better nor worse off
+1091424,Clear Creek County,8019,105,4.0,Somewhat worse off
+1105177,Denver County,8031,40,5.0,Definitely worse off
+1118245,Denver County,8031,116,4.0,Somewhat worse off
+1124099,Denver County,8031,12,,
+1130732,Denver County,8031,139,1.0,Definitely better off
+1152459,Douglas County,8035,9,,
+1163575,Denver County,8031,131,4.0,Somewhat worse off
+1197424,Douglas County,8035,95,1.0,Definitely better off
+1229717,Douglas County,8035,21,,
+1236278,Douglas County,8035,4,,
+1290925,Douglas County,8035,113,3.0,Neither better nor worse off
+1301275,El Paso County,8041,118,4.0,Somewhat worse off
+1303116,Eagle County,8037,10,,
+1312966,Boulder County,8013,78,4.0,Somewhat worse off
+1314654,Denver County,8031,100,3.0,Neither better nor worse off
+1321378,Eagle County,8037,219,4.0,Somewhat worse off
+1330903,Elbert County,8039,12,,
+1342378,El Paso County,8041,29,,
+1346587,El Paso County,8041,296,5.0,Definitely worse off
+1347421,El Paso County,8041,62,3.0,Neither better nor worse off
+1357447,El Paso County,8041,65,3.0,Neither better nor worse off
+1368623,El Paso County,8041,21,,
+1370208,El Paso County,8041,22,,
+1390710,El Paso County,8041,4,,
+1422914,El Paso County,8041,103,1.0,Definitely better off
+1424117,El Paso County,8041,193,2.0,Somewhat better off
+1429334,El Paso County,8041,82,3.0,Neither better nor worse off
+1431446,El Paso County,8041,70,4.0,Somewhat worse off
+1431597,El Paso County,8041,22,,
+1433589,El Paso County,8041,430,5.0,Definitely worse off
+1492182,Denver County,8031,6,,
+1510542,El Paso County,8041,56,5.0,Definitely worse off
+1515889,El Paso County,8041,278,3.0,Neither better nor worse off
+1528446,El Paso County,8041,85,5.0,Definitely worse off
+1536030,El Paso County,8041,9,,
+1536977,El Paso County,8041,102,5.0,Definitely worse off
+1543177,El Paso County,8041,77,1.0,Definitely better off
+1546469,Fremont County,8043,97,4.0,Somewhat worse off
+1555499,El Paso County,8041,133,5.0,Definitely worse off
+1560844,El Paso County,8041,257,5.0,Definitely worse off
+1572296,El Paso County,8041,138,5.0,Definitely worse off
+1578263,El Paso County,8041,57,4.0,Somewhat worse off
+1578665,El Paso County,8041,221,3.0,Neither better nor worse off
+1581367,El Paso County,8041,146,5.0,Definitely worse off
+1581373,El Paso County,8041,126,3.0,Neither better nor worse off
+1581666,El Paso County,8041,180,2.0,Somewhat better off
+1586233,Denver County,8031,59,5.0,Definitely worse off
+1586579,El Paso County,8041,79,4.0,Somewhat worse off
+1587934,El Paso County,8041,100,5.0,Definitely worse off
+1587963,El Paso County,8041,6,,
+1589752,El Paso County,8041,164,4.0,Somewhat worse off
+1591114,El Paso County,8041,106,1.0,Definitely better off
+1593511,El Paso County,8041,76,4.0,Somewhat worse off
+1593862,Larimer County,8069,56,3.0,Neither better nor worse off
+1607959,El Paso County,8041,88,3.0,Neither better nor worse off
+1613091,El Paso County,8041,9,,
+1622888,El Paso County,8041,242,5.0,Definitely worse off
+1627725,El Paso County,8041,66,4.0,Somewhat worse off
+1628366,El Paso County,8041,116,5.0,Definitely worse off
+1628432,El Paso County,8041,118,5.0,Definitely worse off
+1628569,El Paso County,8041,125,3.0,Neither better nor worse off
+1641284,Lake County,8065,105,5.0,Definitely worse off
+1645642,El Paso County,8041,149,3.0,Neither better nor worse off
+1649910,El Paso County,8041,24,,
+1663070,El Paso County,8041,105,3.0,Neither better nor worse off
+1677252,Fremont County,8043,115,3.0,Neither better nor worse off
+1682083,Fremont County,8043,61,5.0,Definitely worse off
+1682233,Fremont County,8043,18,,
+1704530,Garfield County,8045,20,,
+1708731,Garfield County,8045,9,,
+1709224,Garfield County,8045,23,,
+1712152,Garfield County,8045,116,2.0,Somewhat better off
+1712337,Garfield County,8045,112,5.0,Definitely worse off
+1720093,Garfield County,8045,126,4.0,Somewhat worse off
+1721555,El Paso County,8041,78,5.0,Definitely worse off
+1735781,Grand County,8049,93,5.0,Definitely worse off
+1743785,Gunnison County,8051,87,4.0,Somewhat worse off
+1751305,Gunnison County,8051,128,4.0,Somewhat worse off
+1751449,Gunnison County,8051,142,4.0,Somewhat worse off
+1752226,Gunnison County,8051,65,3.0,Neither better nor worse off
+1757201,Huerfano County,8055,74,5.0,Definitely worse off
+1791647,Jefferson County,8059,84,5.0,Definitely worse off
+1800564,Denver County,8031,11,,
+1821564,Elbert County,8039,102,3.0,Neither better nor worse off
+1847862,Jefferson County,8059,10,,
+1849848,Yuma County,8125,108,4.0,Somewhat worse off
+1856694,Denver County,8031,62,4.0,Somewhat worse off
+1868056,El Paso County,8041,121,4.0,Somewhat worse off
+1896442,Denver County,8031,7,,
+1896510,Eagle County,8037,45,4.0,Somewhat worse off
+1929980,Boulder County,8013,15,,
+1935315,Denver County,8031,74,5.0,Definitely worse off
+1956569,Jefferson County,8059,119,5.0,Definitely worse off
+1959617,Clear Creek County,8019,80,4.0,Somewhat worse off
+1963398,Weld County,8123,135,4.0,Somewhat worse off
+1974899,Jefferson County,8059,104,3.0,Neither better nor worse off
+1980619,Denver County,8031,60,4.0,Somewhat worse off
+2008231,Adams County,8001,35,,
+2034685,Weld County,8123,79,1.0,Definitely better off
+2045943,Jefferson County,8059,82,1.0,Definitely better off
+2082541,Jefferson County,8059,97,1.0,Definitely better off
+2084003,Jefferson County,8059,72,5.0,Definitely worse off
+2103711,Denver County,8031,109,3.0,Neither better nor worse off
+2104456,Denver County,8031,127,4.0,Somewhat worse off
+2108361,Kit Carson County,8063,90,5.0,Definitely worse off
+2116397,Lake County,8065,100,5.0,Definitely worse off
+2121308,La Plata County,8067,4,,
+2121369,La Plata County,8067,493,2.0,Somewhat better off
+2122423,Boulder County,8013,93,4.0,Somewhat worse off
+2123031,La Plata County,8067,116,5.0,Definitely worse off
+2129142,La Plata County,8067,72,1.0,Definitely better off
+2131818,La Plata County,8067,144,5.0,Definitely worse off
+2135455,La Plata County,8067,63,3.0,Neither better nor worse off
+2137653,La Plata County,8067,68,4.0,Somewhat worse off
+2139120,La Plata County,8067,98,1.0,Definitely better off
+2141910,La Plata County,8067,6,,
+2146986,La Plata County,8067,97,1.0,Definitely better off
+2147006,La Plata County,8067,262,1.0,Definitely better off
+2151617,El Paso County,8041,148,4.0,Somewhat worse off
+2167503,Larimer County,8069,87,4.0,Somewhat worse off
+2178414,Larimer County,8069,64,5.0,Definitely worse off
+2182076,Larimer County,8069,73,3.0,Neither better nor worse off
+2190486,Weld County,8123,28,,
+2196457,Larimer County,8069,55,5.0,Definitely worse off
+2205627,Weld County,8123,6,,
+2214616,Larimer County,8069,50,2.0,Somewhat better off
+2258323,Broomfield County,8014,118,2.0,Somewhat better off
+2266529,Routt County,8107,74,5.0,Definitely worse off
+2297435,Delta County,8029,98,5.0,Definitely worse off
+2308641,Larimer County,8069,106,5.0,Definitely worse off
+2317439,Weld County,8123,96,1.0,Definitely better off
+2330384,Boulder County,8013,49,3.0,Neither better nor worse off
+2334647,Larimer County,8069,109,1.0,Definitely better off
+2340032,Fremont County,8043,17,,
+2351512,Lincoln County,8073,8,,
+2360236,Logan County,8075,69,3.0,Neither better nor worse off
+2365421,Mesa County,8077,78,4.0,Somewhat worse off
+2365864,Mesa County,8077,62,2.0,Somewhat better off
+2382516,Mesa County,8077,114,5.0,Definitely worse off
+2387966,Pueblo County,8101,61,3.0,Neither better nor worse off
+2394952,Mesa County,8077,74,4.0,Somewhat worse off
+2397545,Mesa County,8077,78,5.0,Definitely worse off
+2406501,Mesa County,8077,129,3.0,Neither better nor worse off
+2407187,Mesa County,8077,83,4.0,Somewhat worse off
+2414820,Mesa County,8077,77,1.0,Definitely better off
+2418374,Mesa County,8077,55,5.0,Definitely worse off
+2421477,Denver County,8031,5,,
+2424566,Garfield County,8045,103,5.0,Definitely worse off
+2426514,Mesa County,8077,127,1.0,Definitely better off
+2437528,Mesa County,8077,109,3.0,Neither better nor worse off
+2443323,Mesa County,8077,53,4.0,Somewhat worse off
+2444406,Adams County,8001,82,5.0,Definitely worse off
+2445323,Mesa County,8077,148,1.0,Definitely better off
+2454871,Denver County,8031,6,,
+2456062,Moffat County,8081,34,,
+2457230,Moffat County,8081,221,1.0,Definitely better off
+2461921,Montezuma County,8083,8,,
+2465941,Montezuma County,8083,86,3.0,Neither better nor worse off
+2467745,Montezuma County,8083,53,3.0,Neither better nor worse off
+2474504,Montrose County,8085,102,5.0,Definitely worse off
+2482362,Montrose County,8085,85,5.0,Definitely worse off
+2499755,Morgan County,8087,12,,
+2503047,Morgan County,8087,109,1.0,Definitely better off
+2511473,Douglas County,8035,41,3.0,Neither better nor worse off
+2516949,Otero County,8089,93,3.0,Neither better nor worse off
+2517030,Otero County,8089,68,,
+2518583,Otero County,8089,56,5.0,Definitely worse off
+2530158,Park County,8093,107,2.0,Somewhat better off
+2543568,Eagle County,8037,61,4.0,Somewhat worse off
+2546510,Delta County,8029,6,,
+2546648,Eagle County,8037,139,5.0,Definitely worse off
+2552246,Eagle County,8037,28,,
+2563229,Pueblo County,8101,13,,
+2567848,Pueblo County,8101,15,,
+2573515,Pueblo County,8101,129,3.0,Neither better nor worse off
+2575270,Pueblo County,8101,82,1.0,Definitely better off
+2579693,Pueblo County,8101,94,1.0,Definitely better off
+2581025,Pueblo County,8101,132,3.0,Neither better nor worse off
+2581604,Pueblo County,8101,91,3.0,Neither better nor worse off
+2590761,Pueblo County,8101,172,3.0,Neither better nor worse off
+2592091,Pueblo County,8101,21,,
+2598865,Pueblo County,8101,310,5.0,Definitely worse off
+2599775,Pueblo County,8101,198,4.0,Somewhat worse off
+2602804,Pueblo County,8101,192,1.0,Definitely better off
+2603365,Pueblo County,8101,77,,
+2605099,Pueblo County,8101,195,4.0,Somewhat worse off
+2605443,Pueblo County,8101,113,4.0,Somewhat worse off
+2607394,Pueblo County,8101,209,3.0,Neither better nor worse off
+2612847,Pueblo County,8101,80,3.0,Neither better nor worse off
+2615369,Pueblo County,8101,81,5.0,Definitely worse off
+2615676,Pueblo County,8101,48,,
+2617743,Pueblo County,8101,143,5.0,Definitely worse off
+2618337,Denver County,8031,63,3.0,Neither better nor worse off
+2619645,El Paso County,8041,75,5.0,Definitely worse off
+2621141,Pueblo County,8101,26,,
+2622977,Pueblo County,8101,7,,
+2623480,El Paso County,8041,23,,
+2625259,Pueblo County,8101,69,5.0,Definitely worse off
+2631064,Pueblo County,8101,176,3.0,Neither better nor worse off
+2635283,Pueblo County,8101,129,5.0,Definitely worse off
+2637788,Pueblo County,8101,68,5.0,Definitely worse off
+2641224,El Paso County,8041,68,1.0,Definitely better off
+2652759,Pueblo County,8101,56,4.0,Somewhat worse off
+2660736,Rio Grande County,8105,22,,
+2661432,Rio Grande County,8105,109,,
+2662282,Rio Grande County,8105,145,3.0,Neither better nor worse off
+2666464,Routt County,8107,62,3.0,Neither better nor worse off
+2691814,Summit County,8117,64,4.0,Somewhat worse off
+2693122,Chaffee County,8015,112,3.0,Neither better nor worse off
+2695021,Summit County,8117,63,3.0,Neither better nor worse off
+2699430,Denver County,8031,98,5.0,Definitely worse off
+2701530,Summit County,8117,197,5.0,Definitely worse off
+2701764,Summit County,8117,78,3.0,Neither better nor worse off
+2701969,Summit County,8117,125,2.0,Somewhat better off
+2708126,Summit County,8117,230,,
+2722983,Teller County,8119,120,5.0,Definitely worse off
+2733675,Weld County,8123,170,4.0,Somewhat worse off
+2758736,Weld County,8123,157,1.0,Definitely better off
+2763605,Weld County,8123,118,1.0,Definitely better off
+2763952,Weld County,8123,51,,
+2773599,Weld County,8123,85,4.0,Somewhat worse off
+2780120,Larimer County,8069,59,5.0,Definitely worse off
+2781682,Weld County,8123,130,4.0,Somewhat worse off
+2785359,Weld County,8123,235,1.0,Definitely better off
+2787545,Weld County,8123,78,3.0,Neither better nor worse off
+2790504,Weld County,8123,78,1.0,Definitely better off
+2792149,Weld County,8123,76,4.0,Somewhat worse off
+2792241,Boulder County,8013,115,1.0,Definitely better off
+2808934,Weld County,8123,242,1.0,Definitely better off
+2809468,Weld County,8123,100,3.0,Neither better nor worse off
+2819525,Weld County,8123,58,2.0,Somewhat better off
+2824168,Weld County,8123,149,1.0,Definitely better off
+2826387,Larimer County,8069,14,,
+2828177,Boulder County,8013,60,1.0,Definitely better off
+2830832,Weld County,8123,13,,
+2853068,Yuma County,8125,14,,
+2863029,Gilpin County,8047,7,,
+2904248,Broomfield County,8014,170,5.0,Definitely worse off
+2928170,Denver County,8031,86,4.0,Somewhat worse off
+2962159,El Paso County,8041,188,3.0,Neither better nor worse off
+2986360,Weld County,8123,72,3.0,Neither better nor worse off
+3068740,Denver County,8031,11,,
+3110184,Montrose County,8085,14,,
+3164567,Denver County,8031,89,5.0,Definitely worse off
+3178467,Denver County,8031,86,4.0,Somewhat worse off
+3254699,El Paso County,8041,262,5.0,Definitely worse off
+3276074,Jefferson County,8059,241,1.0,Definitely better off
+3331369,El Paso County,8041,66,5.0,Definitely worse off
+3350876,Boulder County,8013,33,5.0,Definitely worse off
+3358729,Weld County,8123,78,3.0,Neither better nor worse off
+3363874,Adams County,8001,11,,
+3369504,Broomfield County,8014,56,5.0,Definitely worse off
+3369567,Douglas County,8035,14,,
+3371848,El Paso County,8041,5,,
+3372230,El Paso County,8041,296,3.0,Neither better nor worse off
+3375407,Fremont County,8043,4,,
+3378515,Lake County,8065,59,4.0,Somewhat worse off
+3379792,La Plata County,8067,53,5.0,Definitely worse off
+3384205,Pueblo County,8101,8,,
+3385229,El Paso County,8041,110,2.0,Somewhat better off
+3398992,Denver County,8031,63,5.0,Definitely worse off
+3403882,El Paso County,8041,90,5.0,Definitely worse off
+3406917,Denver County,8031,90,4.0,Somewhat worse off
+3412327,Montrose County,8085,115,5.0,Definitely worse off
+3417391,Pueblo County,8101,58,,
+3592488,Denver County,8031,99,5.0,Definitely worse off
+3598634,Denver County,8031,115,3.0,Neither better nor worse off
+3618658,Adams County,8001,160,3.0,Neither better nor worse off
+3745673,Morgan County,8087,82,1.0,Definitely better off
+3772906,El Paso County,8041,28,,
+3805141,Otero County,8089,33,5.0,Definitely worse off
+3809434,Pueblo County,8101,127,5.0,Definitely worse off
+3813964,Pueblo County,8101,11,,
+3834875,Fremont County,8043,267,1.0,Definitely better off
+3843412,La Plata County,8067,124,1.0,Definitely better off
+3905884,Adams County,8001,56,5.0,Definitely worse off
+3961466,Denver County,8031,66,4.0,Somewhat worse off
+4042642,Pueblo County,8101,6,,
+4078574,La Plata County,8067,18,,
+4084972,Denver County,8031,113,2.0,Somewhat better off
+4114230,La Plata County,8067,95,3.0,Neither better nor worse off
+4160024,Garfield County,8045,65,2.0,Somewhat better off
+4163199,Denver County,8031,5,,
+4228890,Weld County,8123,174,3.0,Neither better nor worse off
+4231911,Summit County,8117,15,,
+4248796,Denver County,8031,140,5.0,Definitely worse off
+4262050,San Miguel County,8113,50,3.0,Neither better nor worse off
+4280448,Adams County,8001,139,2.0,Somewhat better off
+4286269,Baca County,8009,15,,
+4289579,Boulder County,8013,82,5.0,Definitely worse off
+4299467,Denver County,8031,39,,
+4300277,Denver County,8031,13,,
+4300476,Adams County,8001,34,,
+4302002,Denver County,8031,85,2.0,Somewhat better off
+4311265,El Paso County,8041,135,4.0,Somewhat worse off
+4316170,El Paso County,8041,151,3.0,Neither better nor worse off
+4316594,El Paso County,8041,57,4.0,Somewhat worse off
+4321060,Pitkin County,8097,49,5.0,Definitely worse off
+4323294,Denver County,8031,8,,
+4329414,Adams County,8001,8,,
+4331772,Larimer County,8069,8,,
+4333278,Denver County,8031,70,4.0,Somewhat worse off
+4339689,Delta County,8029,91,4.0,Somewhat worse off
+4342967,Saguache County,8109,134,3.0,Neither better nor worse off
+4349145,Yuma County,8125,63,1.0,Definitely better off
+4387236,Denver County,8031,105,5.0,Definitely worse off
+4447880,Boulder County,8013,91,5.0,Definitely worse off
+4470352,El Paso County,8041,142,3.0,Neither better nor worse off
+4555489,El Paso County,8041,75,4.0,Somewhat worse off
+4635720,Adams County,8001,2,,
+4678443,Boulder County,8013,50,2.0,Somewhat better off
+4681897,El Paso County,8041,104,5.0,Definitely worse off
+4697283,El Paso County,8041,97,1.0,Definitely better off
+4699359,Montezuma County,8083,27,,
+4744734,Crowley County,8025,8,,
+4767217,Mesa County,8077,146,4.0,Somewhat worse off
+4768372,Adams County,8001,41,,
+4775412,Boulder County,8013,5,,
+4841597,Douglas County,8035,73,3.0,Neither better nor worse off
+15160886,Chaffee County,8015,128,4.0,Somewhat worse off
+15168034,Larimer County,8069,115,3.0,Neither better nor worse off
+15175514,El Paso County,8041,96,,
+15183489,La Plata County,8067,95,2.0,Somewhat better off
+15199358,Denver County,8031,68,4.0,Somewhat worse off
+15203937,Denver County,8031,87,1.0,Definitely better off
+15216370,Adams County,8001,6,,
+15230857,Denver County,8031,26,,
+15234487,Adams County,8001,15,,
+15237814,Denver County,8031,140,5.0,Definitely worse off
+15240748,Boulder County,8013,102,5.0,Definitely worse off
+15251748,Denver County,8031,198,4.0,Somewhat worse off
+15264230,El Paso County,8041,165,5.0,Definitely worse off
+15264323,El Paso County,8041,4,,
+15277134,Adams County,8001,127,3.0,Neither better nor worse off
+15286640,Denver County,8031,51,3.0,Neither better nor worse off
+15289267,Weld County,8123,46,1.0,Definitely better off
+15291668,Boulder County,8013,142,5.0,Definitely worse off
+15293867,Mesa County,8077,96,1.0,Definitely better off
+15296134,Denver County,8031,83,4.0,Somewhat worse off
+15297697,Morgan County,8087,76,1.0,Definitely better off
+15302323,Mesa County,8077,46,1.0,Definitely better off
+15302348,Rio Grande County,8105,86,4.0,Somewhat worse off
+15304586,Teller County,8119,139,4.0,Somewhat worse off
+15305116,Weld County,8123,68,4.0,Somewhat worse off
+15306500,Weld County,8123,66,1.0,Definitely better off
+15307616,Weld County,8123,45,5.0,Definitely worse off
+15310546,El Paso County,8041,38,5.0,Definitely worse off
+15310989,Mesa County,8077,52,1.0,Definitely better off
+15316009,El Paso County,8041,102,1.0,Definitely better off
+15316461,Weld County,8123,46,4.0,Somewhat worse off
+15318941,Chaffee County,8015,21,,
+15341379,Adams County,8001,25,,
+15367497,Adams County,8001,178,3.0,Neither better nor worse off
+15399258,El Paso County,8041,10,,
+15409646,Mesa County,8077,225,5.0,Definitely worse off
+15426716,El Paso County,8041,319,1.0,Definitely better off
+15493226,El Paso County,8041,115,5.0,Definitely worse off
+15511496,Boulder County,8013,116,5.0,Definitely worse off
+15566762,Denver County,8031,5,,
+15573491,Broomfield County,8014,164,4.0,Somewhat worse off
+15575351,Denver County,8031,70,4.0,Somewhat worse off
+15579371,Pueblo County,8101,63,5.0,Definitely worse off
+15579449,Larimer County,8069,69,5.0,Definitely worse off
+15583742,Denver County,8031,80,3.0,Neither better nor worse off
+15584688,Elbert County,8039,116,1.0,Definitely better off
+15588063,Gilpin County,8047,107,5.0,Definitely worse off
+15590833,Broomfield County,8014,41,5.0,Definitely worse off
+15592043,Larimer County,8069,60,1.0,Definitely better off
+15594349,Jefferson County,8059,241,1.0,Definitely better off
+15601453,Grand County,8049,38,1.0,Definitely better off
+15601998,Phillips County,8095,17,,
+15606897,Denver County,8031,50,5.0,Definitely worse off
+15609688,Larimer County,8069,49,4.0,Somewhat worse off
+15614069,El Paso County,8041,83,1.0,Definitely better off
+15614170,El Paso County,8041,195,3.0,Neither better nor worse off
+15615346,El Paso County,8041,68,5.0,Definitely worse off
+15617921,Summit County,8117,6,,
+15618036,Adams County,8001,11,,
+15621332,Otero County,8089,21,,
+15625492,Mesa County,8077,8,,
+15625611,Garfield County,8045,108,2.0,Somewhat better off
+15627367,Boulder County,8013,114,5.0,Definitely worse off
+15628129,Boulder County,8013,109,3.0,Neither better nor worse off
+15628440,Boulder County,8013,80,3.0,Neither better nor worse off
+15629639,Douglas County,8035,79,3.0,Neither better nor worse off
+15630397,Denver County,8031,43,5.0,Definitely worse off
+15633676,Denver County,8031,6,,
+15637327,Mesa County,8077,76,4.0,Somewhat worse off
+15638295,Jefferson County,8059,168,5.0,Definitely worse off
+15642969,Denver County,8031,135,5.0,Definitely worse off
+15643474,Denver County,8031,64,3.0,Neither better nor worse off
+15651379,Adams County,8001,20,,
+15655545,Weld County,8123,54,2.0,Somewhat better off
+15661251,El Paso County,8041,180,5.0,Definitely worse off
+15665063,Adams County,8001,33,,
+15669561,Eagle County,8037,66,3.0,Neither better nor worse off
+15672957,El Paso County,8041,88,4.0,Somewhat worse off
+15673409,Eagle County,8037,74,2.0,Somewhat better off
+15689250,Denver County,8031,116,3.0,Neither better nor worse off
+15699674,Denver County,8031,31,,
+15700204,Denver County,8031,207,5.0,Definitely worse off
+15705521,El Paso County,8041,45,5.0,Definitely worse off
+15707196,Ouray County,8091,66,1.0,Definitely better off
+15709352,Larimer County,8069,70,1.0,Definitely better off
+15713957,Denver County,8031,182,3.0,Neither better nor worse off
+15734656,Boulder County,8013,12,,
+15740299,Chaffee County,8015,106,1.0,Definitely better off
+15744395,Adams County,8001,17,,
+15745651,Morgan County,8087,12,,
+15746131,Pitkin County,8097,56,4.0,Somewhat worse off
+15747550,Huerfano County,8055,104,5.0,Definitely worse off
+15749186,Mesa County,8077,107,3.0,Neither better nor worse off
+15751632,Denver County,8031,13,,
+15757135,Weld County,8123,69,1.0,Definitely better off
+15799722,Denver County,8031,9,,
+15804617,Denver County,8031,58,4.0,Somewhat worse off
+15815314,Boulder County,8013,2,,
+15823434,Morgan County,8087,6,,
+15825757,Denver County,8031,76,1.0,Definitely better off
+15838491,Denver County,8031,38,2.0,Somewhat better off
+15841128,Gunnison County,8051,22,,
+15843925,El Paso County,8041,142,4.0,Somewhat worse off
+15847006,Adams County,8001,5,,
+15849811,Weld County,8123,11,,
+15851091,Mesa County,8077,14,,
+15852923,Mesa County,8077,10,,
+15853988,Routt County,8107,81,3.0,Neither better nor worse off
+15862010,Adams County,8001,60,2.0,Somewhat better off
+15865014,Adams County,8001,55,5.0,Definitely worse off
+15876075,Weld County,8123,92,3.0,Neither better nor worse off
+15878444,Larimer County,8069,79,1.0,Definitely better off
+15881033,Jefferson County,8059,102,1.0,Definitely better off
+15881618,Denver County,8031,5,,
+15900202,Denver County,8031,43,4.0,Somewhat worse off
+15906866,Denver County,8031,47,5.0,Definitely worse off
+15911631,Denver County,8031,95,4.0,Somewhat worse off
+15959782,Boulder County,8013,12,,
+15970374,Mesa County,8077,58,4.0,Somewhat worse off
+15971366,Gunnison County,8051,212,1.0,Definitely better off
+15977068,Eagle County,8037,153,3.0,Neither better nor worse off
+15987798,Mesa County,8077,52,2.0,Somewhat better off
+15988272,Conejos County,8021,7,,
+15990127,El Paso County,8041,58,5.0,Definitely worse off
+15995620,La Plata County,8067,83,5.0,Definitely worse off
+16010566,Denver County,8031,19,,
+16012298,El Paso County,8041,58,5.0,Definitely worse off
+16015550,El Paso County,8041,61,5.0,Definitely worse off
+16015644,Weld County,8123,68,5.0,Definitely worse off
+16023248,Weld County,8123,72,1.0,Definitely better off
+16025466,Weld County,8123,74,4.0,Somewhat worse off
+16026506,Delta County,8029,535,3.0,Neither better nor worse off
+16035595,El Paso County,8041,77,2.0,Somewhat better off
+16042968,El Paso County,8041,5,,
+16045642,El Paso County,8041,57,4.0,Somewhat worse off
+16050981,Mesa County,8077,231,1.0,Definitely better off
+16054520,Weld County,8123,112,1.0,Definitely better off
+16056016,El Paso County,8041,102,1.0,Definitely better off
+16072437,Boulder County,8013,150,5.0,Definitely worse off
+16089912,El Paso County,8041,76,5.0,Definitely worse off
+16114594,Denver County,8031,51,4.0,Somewhat worse off
+16122942,Denver County,8031,163,1.0,Definitely better off
+16131706,Denver County,8031,7,,
+16140755,Weld County,8123,15,,
+16143546,Boulder County,8013,109,5.0,Definitely worse off
+16144741,El Paso County,8041,34,5.0,Definitely worse off
+16165449,Adams County,8001,60,4.0,Somewhat worse off
+16172206,El Paso County,8041,90,3.0,Neither better nor worse off
+16196222,Denver County,8031,74,1.0,Definitely better off
+16200758,Chaffee County,8015,141,5.0,Definitely worse off
+16233949,El Paso County,8041,10,,
+16262975,Garfield County,8045,44,3.0,Neither better nor worse off
+16269162,Denver County,8031,57,2.0,Somewhat better off
+16323287,Boulder County,8013,63,5.0,Definitely worse off
+16346426,Las Animas County,8071,374,1.0,Definitely better off
+16360906,Larimer County,8069,21,,
+16371116,Denver County,8031,5,,
+16391119,La Plata County,8067,182,2.0,Somewhat better off
+16394781,Pueblo County,8101,4,,
+16401955,Larimer County,8069,54,5.0,Definitely worse off
+16403022,Adams County,8001,152,4.0,Somewhat worse off
+16407237,Adams County,8001,68,5.0,Definitely worse off
+16410048,Mesa County,8077,99,5.0,Definitely worse off
+16417839,Boulder County,8013,51,5.0,Definitely worse off
+16418522,Adams County,8001,5,,
+16424429,El Paso County,8041,59,5.0,Definitely worse off
+16426989,Boulder County,8013,8,,
+16427966,La Plata County,8067,81,3.0,Neither better nor worse off
+16430647,Adams County,8001,56,5.0,Definitely worse off
+16432136,Pueblo County,8101,30,,
+16436476,Conejos County,8021,99,5.0,Definitely worse off
+16440703,Adams County,8001,41,4.0,Somewhat worse off
+16442498,Adams County,8001,55,1.0,Definitely better off
+16442899,Denver County,8031,70,5.0,Definitely worse off
+16444067,Alamosa County,8003,31,,
+16449614,Douglas County,8035,105,1.0,Definitely better off
+16450936,Denver County,8031,44,5.0,Definitely worse off
+16461453,Larimer County,8069,40,2.0,Somewhat better off
+16462992,Douglas County,8035,46,4.0,Somewhat worse off
+16463568,Boulder County,8013,16,,
+16464865,Denver County,8031,7,,
+16465756,Jefferson County,8059,127,4.0,Somewhat worse off
+16482510,Douglas County,8035,55,5.0,Definitely worse off
+16493240,El Paso County,8041,58,5.0,Definitely worse off
+16496272,Larimer County,8069,9,,
+16506534,El Paso County,8041,107,4.0,Somewhat worse off
+16651607,El Paso County,8041,238,1.0,Definitely better off
+16732575,Weld County,8123,98,4.0,Somewhat worse off
+16801521,Denver County,8031,80,1.0,Definitely better off
+16813204,El Paso County,8041,101,4.0,Somewhat worse off
+16814437,Boulder County,8013,12,,
+16840298,Pueblo County,8101,145,3.0,Neither better nor worse off
+16854116,Denver County,8031,27,,
+16855529,Morgan County,8087,1,5.0,Definitely worse off
+16855620,Douglas County,8035,112,3.0,Neither better nor worse off
+16858893,Jefferson County,8059,80,5.0,Definitely worse off
+16859690,Adams County,8001,45,5.0,Definitely worse off
+16860149,El Paso County,8041,59,5.0,Definitely worse off
+16865403,Pueblo County,8101,74,5.0,Definitely worse off
+16885508,Boulder County,8013,8,,
+16887575,Denver County,8031,120,3.0,Neither better nor worse off
+16892219,El Paso County,8041,24,,
+16898050,Summit County,8117,31,,
+16902058,Denver County,8031,10,,
+16905542,Weld County,8123,9,,
+16906456,El Paso County,8041,6,,
+16906735,El Paso County,8041,69,1.0,Definitely better off
+16907879,Denver County,8031,14,,
+16908054,Denver County,8031,7,,
+16912241,El Paso County,8041,111,1.0,Definitely better off
+16921643,Denver County,8031,46,5.0,Definitely worse off
+16924258,Adams County,8001,129,3.0,Neither better nor worse off
+16924417,Jefferson County,8059,56,3.0,Neither better nor worse off
+16925488,Denver County,8031,81,4.0,Somewhat worse off
+16927079,Weld County,8123,74,5.0,Definitely worse off
+16965697,Douglas County,8035,30,,
+16988161,Adams County,8001,53,5.0,Definitely worse off
+16992460,Denver County,8031,41,5.0,Definitely worse off
+16997258,Denver County,8031,5,,
+16998610,Mesa County,8077,127,2.0,Somewhat better off
+16999048,Pueblo County,8101,25,,
+17001805,Adams County,8001,101,2.0,Somewhat better off
+17006519,Adams County,8001,59,5.0,Definitely worse off
+17013197,El Paso County,8041,19,,
+17018987,Weld County,8123,38,5.0,Definitely worse off
+17025982,Montrose County,8085,121,5.0,Definitely worse off
+17033294,Summit County,8117,11,,
+17035219,Douglas County,8035,117,3.0,Neither better nor worse off
+17036087,Denver County,8031,6,,
+17037541,Denver County,8031,9,,
+17041933,Larimer County,8069,118,5.0,Definitely worse off
+17042771,Denver County,8031,7,,
+17044707,El Paso County,8041,3,,
+17045529,El Paso County,8041,10,,
+17047884,Weld County,8123,49,5.0,Definitely worse off
+17051018,Pueblo County,8101,7,,
+17052469,Lake County,8065,14,,
+17052932,Douglas County,8035,70,3.0,Neither better nor worse off
+17074845,Boulder County,8013,8,,
+17106857,Adams County,8001,13,,
+17132237,Denver County,8031,81,3.0,Neither better nor worse off
+17133688,Adams County,8001,60,1.0,Definitely better off
+17134775,Pueblo County,8101,75,1.0,Definitely better off
+17135235,El Paso County,8041,96,4.0,Somewhat worse off
+17154313,Denver County,8031,43,3.0,Neither better nor worse off
+17169867,Garfield County,8045,25,,
+17232112,Las Animas County,8071,48,5.0,Definitely worse off
+17240227,Boulder County,8013,47,5.0,Definitely worse off
+17282082,Weld County,8123,262,3.0,Neither better nor worse off
+17290909,Otero County,8089,25,,
+17304308,Pueblo County,8101,55,1.0,Definitely better off
+17305945,Boulder County,8013,25,,
+17349214,Pueblo County,8101,88,5.0,Definitely worse off
+17349434,Denver County,8031,10,,
+17352497,El Paso County,8041,5,,
+17356186,Pueblo County,8101,67,4.0,Somewhat worse off
+17358105,Adams County,8001,73,2.0,Somewhat better off
+17387881,Baca County,8009,149,2.0,Somewhat better off
+17389264,Pitkin County,8097,51,5.0,Definitely worse off
+17389424,Summit County,8117,43,5.0,Definitely worse off
+17428052,Denver County,8031,4,,
+17435529,Boulder County,8013,63,4.0,Somewhat worse off
+17458852,Adams County,8001,41,5.0,Definitely worse off
+17467808,Adams County,8001,104,5.0,Definitely worse off
+17498444,Denver County,8031,80,4.0,Somewhat worse off
+17507156,Fremont County,8043,12,,
+17517904,El Paso County,8041,143,5.0,Definitely worse off
+17524341,El Paso County,8041,13,,
+17544331,Broomfield County,8014,47,5.0,Definitely worse off
+17544902,Morgan County,8087,167,1.0,Definitely better off
+17547011,La Plata County,8067,55,4.0,Somewhat worse off
+17559033,Jefferson County,8059,7,,
+17559943,Summit County,8117,84,5.0,Definitely worse off
+17559947,Summit County,8117,63,3.0,Neither better nor worse off
+17562416,Montrose County,8085,132,3.0,Neither better nor worse off
+17564878,Pueblo County,8101,2,3.0,Neither better nor worse off
+17564940,Adams County,8001,11,,
+17565664,Delta County,8029,131,4.0,Somewhat worse off
+17571216,Boulder County,8013,5,,
+17571341,Denver County,8031,178,,
+17575018,Adams County,8001,53,1.0,Definitely better off
+17578298,Adams County,8001,99,5.0,Definitely worse off
+17578833,Denver County,8031,93,,
+17598080,Ouray County,8091,20,,
+17608885,Weld County,8123,306,5.0,Definitely worse off
+17611617,Denver County,8031,85,5.0,Definitely worse off
+17616803,Larimer County,8069,99,3.0,Neither better nor worse off
+17620504,Mesa County,8077,253,1.0,Definitely better off
+17626826,Denver County,8031,54,5.0,Definitely worse off
+17632938,Denver County,8031,7,,
+17636819,Denver County,8031,53,5.0,Definitely worse off
+17641633,El Paso County,8041,76,4.0,Somewhat worse off
+17644168,Adams County,8001,14,,
+17660624,Alamosa County,8003,86,3.0,Neither better nor worse off
+17660637,Montezuma County,8083,71,4.0,Somewhat worse off
+17665135,Mesa County,8077,119,1.0,Definitely better off
+17667618,Larimer County,8069,63,5.0,Definitely worse off
+17669592,Mesa County,8077,42,,
+17672303,Jefferson County,8059,43,5.0,Definitely worse off
+17674094,Jefferson County,8059,102,1.0,Definitely better off
+17674786,El Paso County,8041,135,2.0,Somewhat better off
+17679617,Denver County,8031,12,,
+17680296,Weld County,8123,10,,
+17687864,Denver County,8031,58,4.0,Somewhat worse off
+17706035,Weld County,8123,52,5.0,Definitely worse off
+17716515,Denver County,8031,100,4.0,Somewhat worse off
+17719450,Denver County,8031,73,4.0,Somewhat worse off
+17720321,Denver County,8031,63,2.0,Somewhat better off
+17722595,Garfield County,8045,331,4.0,Somewhat worse off
+17724678,Jefferson County,8059,85,4.0,Somewhat worse off
+17727431,El Paso County,8041,348,3.0,Neither better nor worse off
+17745113,El Paso County,8041,17,,
+17745935,Adams County,8001,116,4.0,Somewhat worse off
+17746870,Weld County,8123,53,5.0,Definitely worse off
+17747066,Denver County,8031,93,3.0,Neither better nor worse off
+17748487,Denver County,8031,124,5.0,Definitely worse off
+17750780,Weld County,8123,11,,
+17755757,El Paso County,8041,240,2.0,Somewhat better off
+17772807,Adams County,8001,16,,
+17772891,Douglas County,8035,9,,
+17781877,Adams County,8001,130,,
+17784368,Gunnison County,8051,88,,
+17828135,Pueblo County,8101,106,5.0,Definitely worse off
+17830279,Mesa County,8077,11,,
+17839310,Boulder County,8013,31,,
+17840652,Boulder County,8013,111,5.0,Definitely worse off
+17842923,Denver County,8031,67,4.0,Somewhat worse off
+17852223,Pueblo County,8101,64,5.0,Definitely worse off
+17865424,Adams County,8001,53,4.0,Somewhat worse off
+17866375,Routt County,8107,86,3.0,Neither better nor worse off
+17905385,Ouray County,8091,65,5.0,Definitely worse off
+17907894,El Paso County,8041,87,5.0,Definitely worse off
+17911755,Denver County,8031,40,5.0,Definitely worse off
+17939753,Boulder County,8013,92,1.0,Definitely better off
+17941360,El Paso County,8041,314,2.0,Somewhat better off
+17953201,Denver County,8031,47,1.0,Definitely better off
+17959952,Denver County,8031,42,5.0,Definitely worse off
+17963617,Pueblo County,8101,115,4.0,Somewhat worse off
+17973771,La Plata County,8067,72,5.0,Definitely worse off
+17975760,El Paso County,8041,454,4.0,Somewhat worse off
+17977216,Routt County,8107,94,4.0,Somewhat worse off
+17979587,Denver County,8031,78,4.0,Somewhat worse off
+17980103,El Paso County,8041,173,4.0,Somewhat worse off
+17986870,El Paso County,8041,3,,
+17989929,Denver County,8031,13,,
+17992044,Weld County,8123,8,,
+17992589,Mesa County,8077,67,1.0,Definitely better off
+17997803,Douglas County,8035,55,1.0,Definitely better off
+18017862,Prowers County,8099,49,2.0,Somewhat better off
+18020895,Douglas County,8035,59,5.0,Definitely worse off
+18045981,Las Animas County,8071,30,,
+18049826,Garfield County,8045,58,,
+18053299,Adams County,8001,16,,
+18078143,Denver County,8031,34,,
+18080229,Pueblo County,8101,216,1.0,Definitely better off
+18094653,El Paso County,8041,62,4.0,Somewhat worse off
+18102852,Summit County,8117,44,5.0,Definitely worse off
+18113172,Denver County,8031,74,5.0,Definitely worse off
+18128508,Montrose County,8085,93,5.0,Definitely worse off
+18129812,Boulder County,8013,183,5.0,Definitely worse off
+18132206,Kit Carson County,8063,19,,
+18138024,Weld County,8123,140,4.0,Somewhat worse off
+18138346,Adams County,8001,60,,
+18138453,Phillips County,8095,184,4.0,Somewhat worse off
+18142326,Boulder County,8013,65,5.0,Definitely worse off
+18149701,Douglas County,8035,39,5.0,Definitely worse off
+18163275,Douglas County,8035,75,4.0,Somewhat worse off
+18173277,Denver County,8031,43,5.0,Definitely worse off
+18177088,El Paso County,8041,47,5.0,Definitely worse off
+18182668,Gunnison County,8051,67,1.0,Definitely better off
+18184635,Denver County,8031,214,5.0,Definitely worse off
+18186470,Summit County,8117,9,,
+18195300,Adams County,8001,112,3.0,Neither better nor worse off
+18196439,Mesa County,8077,289,3.0,Neither better nor worse off
+18199792,Denver County,8031,67,5.0,Definitely worse off
+18211487,Adams County,8001,74,3.0,Neither better nor worse off
+18213658,Jefferson County,8059,12,,
+18216996,El Paso County,8041,53,5.0,Definitely worse off
+18219017,Kit Carson County,8063,277,1.0,Definitely better off
+18219589,El Paso County,8041,16,,
+18252513,Pueblo County,8101,26,,
+18256847,Denver County,8031,91,4.0,Somewhat worse off
+18259175,Jefferson County,8059,6,,
+18263691,Denver County,8031,42,5.0,Definitely worse off
+18263757,Archuleta County,8007,5,,
+18264242,Broomfield County,8014,43,5.0,Definitely worse off
+18266692,Boulder County,8013,72,3.0,Neither better nor worse off
+18271201,Douglas County,8035,9,,
+18271220,Denver County,8031,63,2.0,Somewhat better off
+18279855,Weld County,8123,50,4.0,Somewhat worse off
+18280151,Jefferson County,8059,38,5.0,Definitely worse off
+18283031,Summit County,8117,7,,
+18283914,Denver County,8031,6,,
+18284239,Denver County,8031,4,,
+18285173,Boulder County,8013,39,5.0,Definitely worse off
+18288844,Denver County,8031,8,,
+18290999,Denver County,8031,9,,
+18291173,Broomfield County,8014,75,5.0,Definitely worse off
+18293513,Douglas County,8035,166,5.0,Definitely worse off
+18315952,Summit County,8117,151,1.0,Definitely better off
+18317776,Denver County,8031,45,4.0,Somewhat worse off
+18319485,Denver County,8031,8,,
+18321530,Weld County,8123,15,,
+18321912,Boulder County,8013,124,4.0,Somewhat worse off
+18325270,Denver County,8031,349,3.0,Neither better nor worse off
+18331889,Adams County,8001,64,5.0,Definitely worse off
+18335124,Boulder County,8013,105,5.0,Definitely worse off
+18335406,Adams County,8001,7,,
+18337641,Adams County,8001,216,4.0,Somewhat worse off
+18339723,Denver County,8031,54,4.0,Somewhat worse off
+18345854,Denver County,8031,11,,
+18349154,Denver County,8031,69,5.0,Definitely worse off
+18350152,Jefferson County,8059,42,4.0,Somewhat worse off
+18363143,Denver County,8031,79,5.0,Definitely worse off
+18369695,Weld County,8123,78,4.0,Somewhat worse off
+18373118,Boulder County,8013,2,5.0,Definitely worse off
+18373548,Denver County,8031,6,,
+18382287,Alamosa County,8003,87,5.0,Definitely worse off
+18389132,Denver County,8031,583,1.0,Definitely better off
+18390471,Denver County,8031,6,,
+18398134,El Paso County,8041,69,4.0,Somewhat worse off
+18405710,Denver County,8031,5,,
+18408397,Weld County,8123,43,1.0,Definitely better off
+18409183,Denver County,8031,8,,
+18409439,Delta County,8029,50,5.0,Definitely worse off
+18410921,Mesa County,8077,9,,
+18413980,Denver County,8031,35,5.0,Definitely worse off
+18415260,Denver County,8031,14,,
+18416914,Boulder County,8013,44,5.0,Definitely worse off
+18418150,Prowers County,8099,12,,
+18424167,Boulder County,8013,174,1.0,Definitely better off
+18436308,Douglas County,8035,53,1.0,Definitely better off
+18436534,Denver County,8031,64,5.0,Definitely worse off
+18437149,La Plata County,8067,61,4.0,Somewhat worse off
+18437791,Boulder County,8013,82,5.0,Definitely worse off
+18440681,Weld County,8123,114,4.0,Somewhat worse off
+18447101,El Paso County,8041,51,1.0,Definitely better off
+18449892,Mesa County,8077,178,5.0,Definitely worse off
+18452033,El Paso County,8041,129,5.0,Definitely worse off
+18455583,Boulder County,8013,59,5.0,Definitely worse off
+18457624,El Paso County,8041,121,4.0,Somewhat worse off
+18458400,Adams County,8001,25,,
+18459502,Denver County,8031,64,5.0,Definitely worse off
+18478906,Boulder County,8013,115,1.0,Definitely better off
+18481185,Boulder County,8013,68,5.0,Definitely worse off
+18484635,El Paso County,8041,6,,
+18485903,Grand County,8049,40,3.0,Neither better nor worse off
+18497895,Boulder County,8013,56,5.0,Definitely worse off
+18499229,Boulder County,8013,55,4.0,Somewhat worse off
+18500151,Adams County,8001,50,5.0,Definitely worse off
+18500397,Denver County,8031,208,5.0,Definitely worse off
+18503503,Adams County,8001,27,,
+18506729,El Paso County,8041,94,4.0,Somewhat worse off
+18508526,Elbert County,8039,115,3.0,Neither better nor worse off
+18510273,Adams County,8001,66,5.0,Definitely worse off
+18517921,Douglas County,8035,59,5.0,Definitely worse off
+18525526,Boulder County,8013,7,,
+18526677,El Paso County,8041,7,,
+18529238,Adams County,8001,73,1.0,Definitely better off
+18530475,El Paso County,8041,113,3.0,Neither better nor worse off
+18530951,Boulder County,8013,42,5.0,Definitely worse off
+18544745,Jefferson County,8059,104,1.0,Definitely better off
+18549329,Teller County,8119,123,1.0,Definitely better off
+18552278,El Paso County,8041,54,5.0,Definitely worse off
+18552668,Boulder County,8013,11,,
+18553215,Mesa County,8077,15,,
+18556922,Denver County,8031,57,5.0,Definitely worse off
+18559049,Denver County,8031,5,,
+18561101,Douglas County,8035,63,4.0,Somewhat worse off
+18561359,Boulder County,8013,5,,
+18563004,Denver County,8031,86,4.0,Somewhat worse off
+18564945,Huerfano County,8055,141,4.0,Somewhat worse off
+18566136,Weld County,8123,76,3.0,Neither better nor worse off
+18569120,El Paso County,8041,107,5.0,Definitely worse off
+18570963,El Paso County,8041,131,3.0,Neither better nor worse off
+18572185,Mesa County,8077,85,1.0,Definitely better off
+18572701,Weld County,8123,116,1.0,Definitely better off
+18573370,El Paso County,8041,115,1.0,Definitely better off
+18574832,Jefferson County,8059,29,,
+18588530,El Paso County,8041,101,5.0,Definitely worse off
+18589965,Alamosa County,8003,56,4.0,Somewhat worse off
+18596576,Jefferson County,8059,157,5.0,Definitely worse off
+18601544,Boulder County,8013,48,3.0,Neither better nor worse off
+18601689,Adams County,8001,55,4.0,Somewhat worse off
+18601846,Denver County,8031,103,3.0,Neither better nor worse off
+18613613,Weld County,8123,53,5.0,Definitely worse off
+18613882,Delta County,8029,9,,
+18618534,Boulder County,8013,77,4.0,Somewhat worse off
+18622809,Kit Carson County,8063,19,,
+18633144,Weld County,8123,37,,
+18637402,Mesa County,8077,13,,
+18637979,Boulder County,8013,54,5.0,Definitely worse off
+18641113,Boulder County,8013,5,,
+18642334,Weld County,8123,47,5.0,Definitely worse off
+18647711,Denver County,8031,35,5.0,Definitely worse off
+18650870,Denver County,8031,44,4.0,Somewhat worse off
+18653529,Larimer County,8069,163,5.0,Definitely worse off
+18654828,Adams County,8001,69,3.0,Neither better nor worse off
+18657117,Boulder County,8013,5,,
+18663377,Adams County,8001,254,1.0,Definitely better off
+18664545,Alamosa County,8003,62,5.0,Definitely worse off
+18665896,Denver County,8031,57,3.0,Neither better nor worse off
+18669519,Denver County,8031,61,5.0,Definitely worse off
+18670331,Grand County,8049,54,3.0,Neither better nor worse off
+18674401,Denver County,8031,97,3.0,Neither better nor worse off
+18677445,Denver County,8031,136,1.0,Definitely better off
+18687108,Summit County,8117,81,5.0,Definitely worse off
+18697658,Denver County,8031,149,4.0,Somewhat worse off
+18711213,Weld County,8123,109,5.0,Definitely worse off
+18713340,Denver County,8031,7,,
+18714496,Denver County,8031,6,,
+18715218,Boulder County,8013,4,,
+18720809,Denver County,8031,74,2.0,Somewhat better off
+18721966,Adams County,8001,123,4.0,Somewhat worse off
+18723993,Broomfield County,8014,69,4.0,Somewhat worse off
+18724043,Pitkin County,8097,83,5.0,Definitely worse off
+18731339,El Paso County,8041,54,4.0,Somewhat worse off
+18734382,Douglas County,8035,56,3.0,Neither better nor worse off
+18736052,Summit County,8117,163,2.0,Somewhat better off
+18741448,Denver County,8031,69,5.0,Definitely worse off
+18745228,Denver County,8031,84,5.0,Definitely worse off
+18748240,Denver County,8031,29,,
+18754749,Denver County,8031,105,5.0,Definitely worse off
+18768208,El Paso County,8041,91,4.0,Somewhat worse off
+18781787,Denver County,8031,45,5.0,Definitely worse off
+18783979,Eagle County,8037,40,4.0,Somewhat worse off
+18786048,Mesa County,8077,45,3.0,Neither better nor worse off
+18786291,Denver County,8031,52,4.0,Somewhat worse off
+18789160,Otero County,8089,42,,
+18796998,Boulder County,8013,29,,
+18797332,Adams County,8001,72,,
+18797412,Denver County,8031,23,,
+18799227,Montrose County,8085,56,5.0,Definitely worse off
+18799710,Larimer County,8069,40,5.0,Definitely worse off
+18800147,Jefferson County,8059,120,1.0,Definitely better off
+18811777,Denver County,8031,38,,
+18814266,Broomfield County,8014,66,,
+18817239,Boulder County,8013,62,3.0,Neither better nor worse off
+18818993,Boulder County,8013,36,,
+18828277,Denver County,8031,102,5.0,Definitely worse off
+18829273,Delta County,8029,34,,
+18846730,El Paso County,8041,89,,
+18846805,Larimer County,8069,27,,
+18848250,El Paso County,8041,11,,
+18848979,Douglas County,8035,80,,
+18850034,Boulder County,8013,67,4.0,Somewhat worse off
+18854574,Denver County,8031,66,4.0,Somewhat worse off
+18854764,Denver County,8031,33,5.0,Definitely worse off
+18858724,Prowers County,8099,19,,
+18862322,El Paso County,8041,74,1.0,Definitely better off
+18864553,Adams County,8001,49,3.0,Neither better nor worse off
+18870331,Adams County,8001,66,4.0,Somewhat worse off
+18872987,Weld County,8123,106,2.0,Somewhat better off
+18882695,Denver County,8031,41,5.0,Definitely worse off
+18884410,Boulder County,8013,175,3.0,Neither better nor worse off
+18885900,Las Animas County,8071,93,1.0,Definitely better off
+18888190,Summit County,8117,70,3.0,Neither better nor worse off
+18890914,Adams County,8001,60,3.0,Neither better nor worse off
+18893032,Weld County,8123,81,1.0,Definitely better off
+18894205,El Paso County,8041,85,3.0,Neither better nor worse off
+18895337,El Paso County,8041,39,5.0,Definitely worse off
+18896366,Boulder County,8013,52,5.0,Definitely worse off
+18897447,Eagle County,8037,78,1.0,Definitely better off
+18897952,Weld County,8123,36,,
+18898546,Boulder County,8013,94,,
+18920502,Garfield County,8045,86,1.0,Definitely better off
+18923158,El Paso County,8041,61,5.0,Definitely worse off
+18929151,Larimer County,8069,28,,
+18931701,Weld County,8123,28,,
+18940304,Weld County,8123,10,,
+18940331,Boulder County,8013,65,5.0,Definitely worse off
+18940641,Weld County,8123,69,4.0,Somewhat worse off
+18946438,Denver County,8031,13,,
+18948364,Teller County,8119,123,4.0,Somewhat worse off
+18952234,Adams County,8001,134,5.0,Definitely worse off
+18956908,Weld County,8123,10,,
+18958960,Boulder County,8013,20,,
+18959772,Denver County,8031,77,3.0,Neither better nor worse off
+18962955,Boulder County,8013,15,,
+18967101,Pueblo County,8101,115,,
+18970849,Mesa County,8077,200,1.0,Definitely better off
+18971452,Boulder County,8013,56,5.0,Definitely worse off
+18972886,Denver County,8031,42,5.0,Definitely worse off
+18978278,Pueblo County,8101,73,2.0,Somewhat better off
+18992313,El Paso County,8041,73,4.0,Somewhat worse off
+18994155,Larimer County,8069,108,,
+18995680,Boulder County,8013,85,,
+18999007,Pueblo County,8101,81,3.0,Neither better nor worse off
+18999314,Denver County,8031,66,5.0,Definitely worse off
+19007314,Weld County,8123,80,2.0,Somewhat better off
+19011253,Jefferson County,8059,49,,
+19013847,Summit County,8117,38,5.0,Definitely worse off
+19016142,Pueblo County,8101,53,5.0,Definitely worse off
+19016386,Denver County,8031,70,5.0,Definitely worse off
+19038471,Larimer County,8069,46,,
+19044134,Adams County,8001,29,,
+19049286,Douglas County,8035,102,4.0,Somewhat worse off
+19062782,Jefferson County,8059,60,5.0,Definitely worse off
+19070650,Eagle County,8037,46,,
+19083781,Adams County,8001,10,,
+19084386,El Paso County,8041,42,5.0,Definitely worse off
+19089147,Jefferson County,8059,14,,
+19094368,El Paso County,8041,63,5.0,Definitely worse off
+19095213,Adams County,8001,92,1.0,Definitely better off
+19099535,El Paso County,8041,69,,
+19102427,Pueblo County,8101,14,,
+19108489,Alamosa County,8003,70,4.0,Somewhat worse off
+19109660,Chaffee County,8015,67,,
+19110057,Denver County,8031,79,,
+19111144,Larimer County,8069,14,,
+19111824,Adams County,8001,78,4.0,Somewhat worse off
+19113214,Broomfield County,8014,48,,
+19225853,Weld County,8123,14,,
+19511265,El Paso County,8041,24,,
+19592506,Boulder County,8013,56,,
+19597298,Garfield County,8045,36,,
+19623611,El Paso County,8041,39,,
+19660763,El Paso County,8041,270,5.0,Definitely worse off
+19664408,San Miguel County,8113,60,5.0,Definitely worse off
+19726865,Weld County,8123,56,,
+19726993,Mesa County,8077,42,,
+19745185,Routt County,8107,46,5.0,Definitely worse off
+19794557,El Paso County,8041,28,,
+19796837,Boulder County,8013,85,5.0,Definitely worse off
+19799497,El Paso County,8041,49,4.0,Somewhat worse off
+19830080,El Paso County,8041,11,,
+19982911,Eagle County,8037,17,,
+20023844,Weld County,8123,76,5.0,Definitely worse off
+1346539,Arapahoe County,8005,123,1.0,Definitely better off
+12846836,Bent County,8011,51,1.0,Definitely better off
+19463876,Costilla County,8023,178,2.0,Somewhat better off
+18763627,Crowley County,8025,129,1.0,Definitely better off
+12964754,Custer County,8027,59,3.0,Neither better nor worse off
+14568764,Dolores County,8033,121,2.0,Somewhat better off
+18563473,Hinsdale County,8053,25,3.0,Neither better nor worse off
+12957383,Jackson County,8057,64,3.0,Neither better nor worse off
+16784562,Kiowa County,8061,115,3.0,Neither better nor worse off
+1756784,Lincoln County,8073,71,2.0,Somewhat better off
+1548346,Mineral County,8079,68,1.0,Definitely better off
+1457298,Prowers County,8099,16,5.0,Definitely worse off
+1346243,Rio Blanco County,8103,40,1.0,Definitely better off
+1267836,San Juan County,8111,56,3.0,Neither better nor worse off
+18593780,Sedgwick County,8115,55,2.0,Somewhat better off
+19563856,Washington County,8121,50,4.0,Somewhat worse off
+11232421,Clear Creek County,8019,208,4.0,Somewhat worse off
+11465788,Grand County,8049,27,3.0,Neither better nor worse off
+1878492,Lake County,8065,94,2.0,Somewhat better off
+1294758,Rio Grande County,8105,115,1.0,Definitely better off
+1222938,Huerfano County,8055,66,1.0,Definitely better off
+1878932,San Miguel County,8113,59,1.0,Definitely better off
+1912987,Kit Carson County,8063,37,2.0,Somewhat better off
+13756984,Ouray County,8091,71,2.0,Somewhat better off
+12589516,Conejos County,8021,74,3.0,Neither better nor worse off
+12445876,Yuma County,8125,72,1.0,Definitely better off
+13757864,Park County,8093,73,2.0,Somewhat better off
+13825974,Logan County,8075,113,1.0,Definitely better off
+1745389,Cheyenne County,8017,19,1.0,Definitely better off
+16382659,Gilpin County,8047,38,5.0,Definitely worse off
+17492847,Prowers County,8099,121,4.0,Somewhat worse off
+1385749,Saguache County,8109,11,3.0,Neither better nor worse off
+1285638,Moffat County,8081,117,4.0,Somewhat worse off
+18494057,Archuleta County,8007,61,1.0,Definitely better off
+1759378,Phillips County,8095,91,2.0,Somewhat better off
+1857389,Baca County,8009,118,5.0,Definitely worse off
+1758491,Dolores County,8033,78,3.0,Neither better nor worse off
+19673857,Hinsdale County,8053,30,1.0,Definitely better off
+18573840,Jackson County,8057,10,3.0,Neither better nor worse off
+1453635,Kiowa County,8061,49,1.0,Definitely better off
+1536588,Lincoln County,8073,72,2.0,Somewhat better off
+1546287,Mineral County,8079,14,2.0,Somewhat better off
+1484649,Prowers County,8099,70,2.0,Somewhat better off
+1765767,Rio Blanco County,8103,82,3.0,Neither better nor worse off
+1435382,San Juan County,8111,13,5.0,Definitely worse off
+1746398,Sedgwick County,8115,81,4.0,Somewhat worse off
+1754394,Washington County,8121,60,1.0,Definitely better off
+1846491,Clear Creek County,8019,75,2.0,Somewhat better off
+1947398,Grand County,8049,96,4.0,Somewhat worse off
+17583789,Lake County,8065,43,5.0,Definitely worse off
+2907270,Rio Grande County,8105,25,3.0,Neither better nor worse off
+3073176,Huerfano County,8055,48,3.0,Neither better nor worse off
+3092574,San Miguel County,8113,47,2.0,Somewhat better off
+2969298,Kit Carson County,8063,262,4.0,Somewhat worse off
+3531534,Ouray County,8091,25,1.0,Definitely better off
+2870764,Conejos County,8021,55,3.0,Neither better nor worse off
+3492796,Yuma County,8125,25,2.0,Somewhat better off
+3508788,Park County,8093,63,1.0,Definitely better off
+3692982,Arapahoe County,8005,41,2.0,Somewhat better off
+3894796,Bent County,8011,104,3.0,Neither better nor worse off
+1847387,Costilla County,8023,80,1.0,Definitely better off
+1287975,Crowley County,8025,12,2.0,Somewhat better off
+1576960,Custer County,8027,143,2.0,Somewhat better off
+1893748,Dolores County,8033,13,2.0,Somewhat better off
+1769730,Hinsdale County,8053,47,1.0,Definitely better off
+1087981,Jackson County,8057,167,4.0,Somewhat worse off
+1058937,Kiowa County,8061,55,2.0,Somewhat better off
+1847593,Lincoln County,8073,79,3.0,Neither better nor worse off
+11262539,Mineral County,8079,84,2.0,Somewhat better off
+1897280,Prowers County,8099,63,1.0,Definitely better off
+1098256,Rio Blanco County,8103,74,5.0,Definitely worse off
+1287360,San Juan County,8111,132,1.0,Definitely better off
+1919098,Sedgwick County,8115,2,4.0,Somewhat worse off
+1875389,Washington County,8121,11,4.0,Somewhat worse off
+1967256,San Miguel County,8113,13,3.0,Neither better nor worse off
+1092878,Kit Carson County,8063,88,2.0,Somewhat better off
+1278650,Ouray County,8091,67,2.0,Somewhat better off
+1222680,Conejos County,8021,55,3.0,Neither better nor worse off
+18975638,Yuma County,8125,49,2.0,Somewhat better off
+8987480,Park County,8093,59,1.0,Definitely better off
+384789,Logan County,8075,30,2.0,Somewhat better off
+121378,Cheyenne County,8017,58,2.0,Somewhat better off
+2182984,Gilpin County,8047,16,3.0,Neither better nor worse off
+3892709,Prowers County,8099,34,3.0,Neither better nor worse off
+289738,Saguache County,8109,216,2.0,Somewhat better off
+2489798,Moffat County,8081,62,1.0,Definitely better off
+124153,Archuleta County,8007,44,3.0,Neither better nor worse off
+1201974,Phillips County,8095,74,2.0,Somewhat better off
+189388,Baca County,8009,93,2.0,Somewhat better off
+726456,Dolores County,8033,183,1.0,Definitely better off
+1035672,Hinsdale County,8053,19,4.0,Somewhat worse off
+812787,Jackson County,8057,140,5.0,Definitely worse off
+827398,Kiowa County,8061,53,5.0,Definitely worse off
+1210976,Lincoln County,8073,277,2.0,Somewhat better off
+1253453,Mineral County,8079,16,3.0,Neither better nor worse off
+126567,Prowers County,8099,26,1.0,Definitely better off
+27687,Rio Blanco County,8103,91,1.0,Definitely better off
+364578,San Juan County,8111,64,2.0,Somewhat better off
+2536757,Sedgwick County,8115,42,3.0,Neither better nor worse off
+245347,Washington County,8121,55,2.0,Somewhat better off
+657569,Clear Creek County,8019,43,1.0,Definitely better off
+342658,Grand County,8049,72,1.0,Definitely better off
